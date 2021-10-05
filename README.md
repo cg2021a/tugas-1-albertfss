@@ -1,7 +1,7 @@
-Nama Benda : Kotak 
+### Nama Benda  
+Kotak  Kubus
 
-Gambar :
-
+### Gambar 
 ![D00A2D52-A82F-4C50-948F-19908E8D1C22](https://user-images.githubusercontent.com/55067921/134200440-d44ba5ea-46d3-4ded-b2e2-304cf7544836.jpg)
 ![EBFC0CFF-CF0D-42A8-A4F1-DD1E831B8AA4](https://user-images.githubusercontent.com/55067921/134200498-41c31ffe-7683-4da9-9203-a1f743a4876b.jpg)
 ![1B88116A-9C5A-4F78-B967-994B26A979C7](https://user-images.githubusercontent.com/55067921/134200532-6bc46c8f-8138-42f8-a41a-2cb505527ad2.jpg)
