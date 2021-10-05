@@ -17,5 +17,6 @@ Kotak  Kubus
 
 ### Gambar
 Menggunakan angle foto 2 dan 3
+
 ![image](https://user-images.githubusercontent.com/55067921/136095634-92a4606d-5aa9-4356-92b2-facdc907a460.png)
 
